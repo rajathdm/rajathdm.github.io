@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["'m Rajath D. M. 😎", " work on interesting projects.", "'m a Digital Strategist.", "'m a Designer."," ride motorcycles.", "'m a Growth Hacker. ", " play with Cameras.", "'m Rajath D. M. 😎", " work in Sustainable Development. 🌏", "'m an athlete.", " study Behavioral Economics.", "'m a ಕನ್ನಡಿಗ.", " love travelling.", " make really nice coffee. ☕"],
+      strings: ["I'm Rajath D. M. 😎", "I work in tech It's like Magic!", "All things Product and Growth", "Also all things XC ", "How about you? How are you doing?", "What do you think about the Future of Work?", "Let's talk about how you wanna change the world?"],
       typeSpeed: 100,
       loop: true,
     });
